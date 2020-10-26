@@ -1,7 +1,9 @@
 # runtime README
 
-This extension adds a Runtime Script syntax highlighting for Visual Studio Code.
+Provides Runtime Script support for Visual Studio Code.
+
+![](./images/demo.png)
 
 ### About Runtime Script
-* [Runtime Script Github](https://github.com/yjlo123/runtime-script)
-* [Runtime Script Playground](https://runtime.siwei.dev)
+* [Github](https://github.com/yjlo123/runtime-script)
+* [Playground](https://runtime.siwei.dev)

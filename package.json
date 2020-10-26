@@ -2,7 +2,7 @@
     "name": "runtime",
     "displayName": "Runtime",
     "description": "Runtime Script language support",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "publisher": "yjlo123",
     "author": {
         "name": "Liu Siwei"
