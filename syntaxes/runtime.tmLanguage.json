@@ -45,7 +45,7 @@
 		},
 		"decimal": {
 			"name": "constant.character.runtime",
-			"match": "[+-]?[0-9]+\\b"
+			"match": "\\s-?\\d+\\b"
 		},
 		"constant": {
 			"name": "constant.character.runtime",
