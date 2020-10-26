@@ -1,4 +1,4 @@
-# runtime README
+# Runtime Script
 
 Provides Runtime Script support for Visual Studio Code.
 
