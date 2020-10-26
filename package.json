@@ -1,0 +1,26 @@
+{
+    "name": "runtime",
+    "displayName": "Runtime",
+    "description": "Runtime Script language support",
+    "version": "0.0.1",
+    "publisher": "yjlo123",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "runtime",
+            "aliases": ["Runtime Script", "runtime"],
+            "extensions": ["runtime"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "runtime",
+            "scopeName": "source.runtime",
+            "path": "./syntaxes/runtime.tmLanguage.json"
+        }]
+    }
+}
