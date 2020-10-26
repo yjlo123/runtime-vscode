@@ -4,8 +4,7 @@ This extension adds a Runtime Script syntax highlighting for Visual Studio Code.
 
 ## Release Notes
 
-### 1.0.0
-
+### 0.1.0
 Initial release
 
 ### For more information

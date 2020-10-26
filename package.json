@@ -22,5 +22,9 @@
             "scopeName": "source.runtime",
             "path": "./syntaxes/runtime.tmLanguage.json"
         }]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yjlo123/runtime-vscode.git"
     }
 }
